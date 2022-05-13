@@ -4,7 +4,7 @@
       app
       color="primary"
       class="white--text font-weight-bold display-1"
-    >Lista de tarefas</v-app-bar>
+    >Marquinho</v-app-bar>
     <v-main>
       <tabela :controller="controller" />
       <formulario
